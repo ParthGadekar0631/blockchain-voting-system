@@ -52,15 +52,15 @@ npm start
 Access the App: Open http://localhost:3000 in your browser to start voting.
 
 ## 📌 Example Output
-Admin Panel: Admin interface to add candidates and deploy elections.
-Voter Interface: Voters can cast votes for their preferred candidates.
-Vote Counts: Real-time display of voting results.
+- **Admin Panel:** Admin interface to add candidates and deploy elections.
+- **Voter Interface:** Voters can cast votes for their preferred candidates.
+- **Vote Counts:** Real-time display of voting results.
 
 ## 🎯 Future Improvements
-Multi-election Support: Add functionality for multiple elections and voting rounds.
-Enhanced Security: Integrate better encryption techniques for vote casting.
-Mobile Application: Develop a mobile app for easier access to the voting system.
-Advanced Analytics: Visualize voter trends and election statistics.
+- **Multi-election Support:** Add functionality for multiple elections and voting rounds.
+- **Enhanced Security:** Integrate better encryption techniques for vote casting.
+- **Mobile Application:** Develop a mobile app for easier access to the voting system.
+- **Advanced Analytics:** Visualize voter trends and election statistics.
 
 ## 🤝 Contribution
 Feel free to fork the repository and submit pull requests for improvements! All contributions are welcome.
